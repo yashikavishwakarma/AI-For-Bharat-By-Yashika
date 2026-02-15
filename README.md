@@ -1,4 +1,4 @@
-# SATHI – AI-Powered Civic Opportunity Platform
+# SATHI - AI-Powered Civic Opportunity Platform
 
 SATHI is an AI-driven platform designed to help underserved students and early-career individuals discover, understand, and qualify for scholarships, internships, government schemes, and skill development programs.
 
